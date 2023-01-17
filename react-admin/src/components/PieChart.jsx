@@ -1,5 +1,4 @@
 import { tokens } from '../theme';
-import {Box} from '@mui/material'
 import { ResponsivePie } from '@nivo/pie'
 import { useTheme} from '@mui/material';
 import { mockPieData } from '../data/mockData';
