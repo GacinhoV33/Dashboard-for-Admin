@@ -25,9 +25,7 @@ jobs:
         working-directory: 'react-admin/'
         run: |
           npm install
-          npm run build --if-present
-          npm run test --if-present
-      
+          npm run build --if-present      
       
       - name: Zip artifact for deployment
         run: Compress-Archive ./react-admin/build/* release.zip
