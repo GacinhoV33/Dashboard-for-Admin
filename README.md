@@ -8,7 +8,7 @@ Website was made with following stack:
 
 
 What's more, industry standard libraries were used. For charts - Nivo, for tables - Data-Grid, for calendar - FullCalendar, MUI toolkit - for UI components and light/dark-mode.
-The website will be deployed soon. 
+Website address: https://admin-dashboard.azurewebsites.net/
 
 
 Few screenes that shows results of project.
